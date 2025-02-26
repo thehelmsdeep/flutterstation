@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "DietLine",
+      "description": "DietLine is a cutting-edge platform designed to transform the way individuals approach nutrition, health, and overall well-being. In a world where health-conscious decisions can be overwhelming due to the sheer number of available diets, supplements, and meal plans, DietLine stands out by offering a specialized, comprehensive solution for those seeking personalized, effective, and sustainable dietary guidance.",
+      "url": "https://play.google.com/store/apps/details?id=land.medis.dietline&pcampaignid=web_share",
+      "tags": ["Flutter", "NodeJS", "Firebase"]
+    },
+    {
+      "id": 2,
+      "title": "Rooznegar Calendar",
+      "description": "Rooznegar Calendar is a free Persian Calendar with an old history and we were inspired by \"Herodotus history\" for this calendar.",
+      "url": "https://play.google.com/store/apps/details?id=com.codecraftstudio.rooznegar&pcampaignid=web_share",
+      "tags": ["Flutter", "iOS", "Android"]
+    },
+    {
+      "id": 3,
+      "title": "Alobodo",
+      "description": "Alobodo is a free platform developed to create a bridge between those who seek certain on-the-spot services and those who provide mobile services in every field ranging from construction, building, gardening, plumbing and, welding, all the way to fixing electrical appliances, home-schooling, coaching, nursing children and elders, and repairing consumer electronic devices.",
+      "url": "https://play.google.com/store/apps/details?id=medis.holding.alobodoapp&pcampaignid=web_share",
+      "tags": ["React", "Typescript", "Netlify"]
+    },
+    {
+      "id": 4,
+      "title": "Shahin Language",
+      "description": "Shahin Language application is provided to teach different languages for Persian speakers.",
+      "url": "https://play.google.com/store/apps/details?id=medis.land.falcon&pcampaignid=web_share",
+      "tags": ["OpenMP", "MPI", "Monte Carlo"]
+    }
+  ]
+}
